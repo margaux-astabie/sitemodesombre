@@ -1,0 +1,22 @@
+
+
+/* Police pour les textes */
+@font-face {
+    font-family: 'Neue';
+    font-weight: normal;
+    src: url(/neue-haas-grotesk-display-pro-cufonfonts/NeueHaasDisplayMediu.ttf);
+}
+
+/* Police pour le h1 */
+@font-face {
+    font-family: 'Neue';
+    font-weight: bold;
+    src: url(/neue-haas-grotesk-display-pro-cufonfonts/NeueHaasDisplayBlack.ttf);
+}
+
+/* Police pour h2 et h3 */
+@font-face {
+    font-family: 'Neue';
+    font-weight: medium;
+    src: url(/neue-haas-grotesk-display-pro-cufonfonts/NeueHaasDisplayBold.ttf);
+}
